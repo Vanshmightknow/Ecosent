@@ -1,4 +1,5 @@
 # Ecosent
+https://github.com/user-attachments/assets/1a6fdebf-34f2-4779-b113-f3c13d592bb1
 Suppose you are working for XYZ Marketing, and they want to build a platform to  analyze social media sentiment (from Twitter, Facebook, etc.) to track customer  opinions about their brand in real-time. The platform should allow marketing teams to  generate real-time insights, track positive/negative sentiment, and produce  actionable reports
 <P>Here app.py file has all the code combined in one file 
    The word document has steps that you need to follow after setting up AWS
